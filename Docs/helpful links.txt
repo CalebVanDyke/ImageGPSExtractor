@@ -1,0 +1,4 @@
+http://en.wikipedia.org/wiki/GPS_Exchange_Format
+http://denwilliams.net/2013/07/17/gps-metadata/
+http://topo.math.u-psud.fr/~bousch/exifdump.py
+http://stackoverflow.com/questions/4983766/getting-gps-data-from-an-images-exif-in-c-sharp
